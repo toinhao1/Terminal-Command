@@ -1,0 +1,15 @@
+1)How do you import a module?
+
+A: We  import a module by using require method on the module we are importing.
+
+2) What JavaScript statement do you use to export a module?
+
+A: We would use module.exports to export a module.
+
+3) Are there other ways to export a module?
+
+A: No, there are a few different ways to use export and module.exports but you still have to use them.
+
+4) What are ES6 modules and how do they differ from the module we created in this checkpoint?
+
+A: ES6 modules are similar to Node.js modules  but are some differences. The main one would be that the Node.js of CommonJS modules are defined dynamically while the function is being evaluated, the export of the ES6 module are defined lexically. Also instead of using require as in with the Node.js modules ES6 uses import.
